@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35a0490-cbd1-400a-aef8-21443219670a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iGBjEQsQj0Z3lFA7IlAcOQ04PY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35a0490-cbd1-400a-aef8-21443219670a" name="Default Changelist" comment="" />
+      <created>1601524182075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601524182075</updated>
+      <workItem from="1601524183149" duration="21175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1053" y="368" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601531078874">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1053" y="368" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601531078874" />
+    <state x="1012" y="292" width="617" height="575" key="NewPhpClassDialog" timestamp="1601534675087">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1012" y="292" width="617" height="575" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601534675087" />
+    <state x="1121" y="498" width="399" height="156" key="NewPhpFileDialog" timestamp="1601526316604">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1121" y="498" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601526316604" />
+  </component>
+</project>
