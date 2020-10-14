@@ -9,14 +9,19 @@ $editCSV = new EditCsvFile('savedNumbers.csv');
 $result = new Result('1111');
 
 $oldNumberList = $editCSV->getNumbers();
-$newNumber = $_GET['0'];
-if (strlen($oldNumberList) < 3) {
-    $editCSV->saveNumber($newNumber, $oldNumberList);
-    $starGen = $process->convertNumsToX();
+
+if ($_GET == null) {
+    $newNumber = '';
 } else {
-    $editCSV->saveNumber($newNumber, $oldNumberList);
-    $starGen = $process->convertNumsToX() . ' ' . $result->getResult($editCSV->getNumbers());
-    $editCSV->emptyCsv();
+    $newNumber = $_GET['0'];
+    if (strlen($oldNumberList) < 3) {
+        $editCSV->saveNumber($newNumber, $oldNumberList);
+        $starGen = $process->convertNumsToX();
+    } else {
+        $editCSV->saveNumber($newNumber, $oldNumberList);
+        $starGen = $process->convertNumsToX() . ' ' . $result->getResult($editCSV->getNumbers());
+        $editCSV->emptyCsv();
+    }
 }
 
 ?>
@@ -28,7 +33,6 @@ if (strlen($oldNumberList) < 3) {
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="style.css">
     <title>Safe</title>
 </head>
 <body>
