@@ -21,6 +21,7 @@ class PinSearch
         return $csvArray;
 
     }
+
     public function searchPinInList(array $allFromSavedSessionReferencesCsw, string $pinEntry): array
     {
         $person = '';

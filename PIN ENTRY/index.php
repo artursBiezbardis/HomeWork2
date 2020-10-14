@@ -13,7 +13,7 @@ $searchPin = new PinSearch('savedSessionReferences.csv');
 $oldNumberList = $editCSV->getNumbers();
 
 if (empty($_GET)) {
-    $starGen= 'Enter pin !';
+    $starGen = 'Enter pin !';
 } else {
     $newNumber = $_GET['0'];
     if (strlen($oldNumberList) < 3) {

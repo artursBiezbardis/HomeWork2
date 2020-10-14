@@ -4,14 +4,11 @@
 class ResultOnDisplay
 {
 
-    public function getResult(string $pinSearch,string $pinInput):string
+    public function getResult(string $pinSearch, string $pinInput): string
     {
-        if($pinSearch===$pinInput)
-        {
+        if ($pinSearch === $pinInput) {
             return 'UNLOCKED';
-        }
-        else
-            {
+        } else {
             return 'Locked';
         }
     }

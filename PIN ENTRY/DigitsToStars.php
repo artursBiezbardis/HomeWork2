@@ -12,9 +12,7 @@ class DigitsToStars
     }
 
 
-
-
-    public function convertNumsToStars():string
+    public function convertNumsToStars(): string
     {
         if (strlen(file_get_contents($this->path)) <= 4) {
             $xOutput = '';
