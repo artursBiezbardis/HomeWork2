@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="988f6325-2649-4dfa-80ff-7bb18d6eb8f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1irORhshbpflVAEfThlxdaeQ3I9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Izmantot no vecajiem" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="988f6325-2649-4dfa-80ff-7bb18d6eb8f3" name="Default Changelist" comment="" />
+      <created>1602662237419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602662237419</updated>
+      <workItem from="1602662238463" duration="17613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="867" y="372" width="644" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602669400262">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="867" y="372" width="644" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1602669400262" />
+    <state x="845" y="109" width="678" height="937" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602677033592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="845" y="109" width="678" height="937" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602677033592" />
+    <state x="314" y="339" width="865" height="568" key="NewPhpClassDialog" timestamp="1602677133272">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="314" y="339" width="865" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602677133272" />
+    <state x="683" y="205" width="1022" height="737" key="SettingsEditor" timestamp="1602662273216">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="683" y="205" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1602662273216" />
+  </component>
+</project>
